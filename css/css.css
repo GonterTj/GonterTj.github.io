@@ -32,8 +32,6 @@ h2 {
 
 .image1{
     width: auto;
-    height: 100px;
-    margin: -20px 10px;
 }
 
 .flex-container{
@@ -167,3 +165,4 @@ form {
     background-color: #008CBA;
     color: white;
   }
+  
